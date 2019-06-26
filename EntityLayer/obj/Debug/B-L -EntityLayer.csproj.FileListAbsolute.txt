@@ -1,0 +1,10 @@
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\EntityLayer\obj\Debug\B-L -EntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\EntityLayer\obj\Debug\B-L -EntityLayer.csprojResolveAssemblyReference.cache

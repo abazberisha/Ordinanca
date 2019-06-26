@@ -1,0 +1,10 @@
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\Ordinanca Stomatologjike.exe
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\Ordinanca Stomatologjike.pdb
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca Stomatologjike.csprojResolveAssemblyReference.cache
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmAddPatient.resources
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmAutentifikimi.resources
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmContent.resources
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.Properties.Resources.resources
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca Stomatologjike.csproj.GenerateResource.Cache
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca Stomatologjike.exe
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca Stomatologjike.pdb

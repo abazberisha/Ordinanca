@@ -1,0 +1,20 @@
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\EntityLayer\obj\Debug\EntityLayer.pdb
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\EntityLayer\bin\Debug\EntityLayer.dll
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\EntityLayer\bin\Debug\EntityLayer.pdb
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\EntityLayer\obj\Debug\EntityLayer.dll
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\EntityLayer\obj\Debug\EntityLayer.pdb
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\EntityLayer\obj\Debug\EntityLayer.pdb
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\EntityLayer\obj\Debug\EntityLayer.pdb
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,115 @@
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\Ordinanca Stomatologjike.exe
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\Ordinanca Stomatologjike.pdb
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\DataLayer.dll
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\EntityLayer.dll
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\DataLayer.pdb
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\EntityLayer.pdb
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\P-L-Ordinanca Stomatologjike.csprojResolveAssemblyReference.cache
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmAddAppointment.resources
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmAddPatient.resources
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmAutentifikimi.resources
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmContent.resources
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmIncome.resources
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmPatientRecord.resources
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.Properties.Resources.resources
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\P-L-Ordinanca Stomatologjike.csproj.GenerateResource.Cache
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca Stomatologjike.exe
+C:\Users\Abaz\Documents\Visual Studio 2013\Projects\IT1\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca Stomatologjike.pdb
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\Ordinanca Stomatologjike.exe
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\BussinesLogicLayer.dll
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\EntityLayer.dll
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\DataLayer.dll
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\BussinesLogicLayer.pdb
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\EntityLayer.pdb
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\DataLayer.pdb
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\P-L-Ordinanca Stomatologjike.csprojResolveAssemblyReference.cache
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\P-L-Ordinanca Stomatologjike.csproj.ResolveComReference.cache
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmAddAppointment.resources
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmAddPatient.resources
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmAutentifikimi.resources
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmContent.resources
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmEditPacient.resources
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmIncome.resources
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmPatientRecord.resources
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.Print.resources
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.Properties.Resources.resources
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\P-L-Ordinanca Stomatologjike.csproj.GenerateResource.Cache
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca Stomatologjike.exe
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca Stomatologjike.pdb
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\Ordinanca Stomatologjike.exe.config
+C:\Users\Abaz\Desktop\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\Ordinanca Stomatologjike.pdb
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\Ordinanca Stomatologjike.exe.config
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Interop.SpeechLib.dll
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\P-L-Ordinanca Stomatologjike.csproj.ResolveComReference.cache
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca Stomatologjike.exe
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca Stomatologjike.pdb
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\Ordinanca Stomatologjike.exe
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\Ordinanca Stomatologjike.pdb
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\BussinesLogicLayer.dll
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\EntityLayer.dll
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\DataLayer.dll
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\BussinesLogicLayer.pdb
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\EntityLayer.pdb
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\DataLayer.pdb
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\P-L-Ordinanca Stomatologjike.csprojResolveAssemblyReference.cache
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmAddAppointment.resources
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmAddPatient.resources
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmAutentifikimi.resources
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmContent.resources
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmEditPacient.resources
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmIncome.resources
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmPatientRecord.resources
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.Print.resources
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.Properties.Resources.resources
+E:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\P-L-Ordinanca Stomatologjike.csproj.GenerateResource.Cache
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\Ordinanca Stomatologjike.exe.config
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Interop.SpeechLib.dll
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\P-L-Ordinanca Stomatologjike.csproj.ResolveComReference.cache
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca Stomatologjike.exe
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca Stomatologjike.pdb
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\Ordinanca Stomatologjike.exe
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\Ordinanca Stomatologjike.pdb
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\BussinesLogicLayer.dll
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\EntityLayer.dll
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\DataLayer.dll
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\BussinesLogicLayer.pdb
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\EntityLayer.pdb
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\DataLayer.pdb
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\P-L-Ordinanca Stomatologjike.csprojResolveAssemblyReference.cache
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmAddAppointment.resources
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmAddPatient.resources
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmAutentifikimi.resources
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmContent.resources
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmEditPacient.resources
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmIncome.resources
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmPatientRecord.resources
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.Print.resources
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.Properties.Resources.resources
+D:\Shkenca Kompjuterike\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\P-L-Ordinanca Stomatologjike.csproj.GenerateResource.Cache
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\Ordinanca Stomatologjike.exe.config
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Interop.SpeechLib.dll
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\P-L-Ordinanca Stomatologjike.csproj.ResolveComReference.cache
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca Stomatologjike.exe
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca Stomatologjike.pdb
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\Ordinanca Stomatologjike.exe
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\Ordinanca Stomatologjike.pdb
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\BussinesLogicLayer.dll
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\EntityLayer.dll
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\DataLayer.dll
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\BussinesLogicLayer.pdb
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\EntityLayer.pdb
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\bin\Debug\DataLayer.pdb
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmAddAppointment.resources
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmAddPatient.resources
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmAutentifikimi.resources
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmContent.resources
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmEditPacient.resources
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmIncome.resources
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.FrmPatientRecord.resources
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.Print.resources
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\Ordinanca_Stomatologjike.Properties.Resources.resources
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\P-L-Ordinanca Stomatologjike.csproj.GenerateResource.Cache
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\P-L-Ordinanca Stomatologjike.csprojAssemblyReference.cache
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\P-L-Ordinanca Stomatologjike.csproj.CoreCompileInputs.cache
+D:\Shkenca Kompjuterike BSc\SEMESTRI IV\Projekti TI-1\Projekti Final\Ordinanca Stomatologjike\Ordinanca Stomatologjike\obj\Debug\P-L-Ordinanca Stomatologjike.csproj.CopyComplete
